@@ -1,0 +1,11 @@
+/Users/Beibei/Workspace/OOB/OOB/bin/Debug/netcoreapp2.2/OOB.deps.json
+/Users/Beibei/Workspace/OOB/OOB/bin/Debug/netcoreapp2.2/OOB.runtimeconfig.json
+/Users/Beibei/Workspace/OOB/OOB/bin/Debug/netcoreapp2.2/OOB.runtimeconfig.dev.json
+/Users/Beibei/Workspace/OOB/OOB/bin/Debug/netcoreapp2.2/OOB.dll
+/Users/Beibei/Workspace/OOB/OOB/bin/Debug/netcoreapp2.2/OOB.pdb
+/Users/Beibei/Workspace/OOB/OOB/obj/Debug/netcoreapp2.2/OOB.csprojAssemblyReference.cache
+/Users/Beibei/Workspace/OOB/OOB/obj/Debug/netcoreapp2.2/OOB.csproj.CoreCompileInputs.cache
+/Users/Beibei/Workspace/OOB/OOB/obj/Debug/netcoreapp2.2/OOB.AssemblyInfoInputs.cache
+/Users/Beibei/Workspace/OOB/OOB/obj/Debug/netcoreapp2.2/OOB.AssemblyInfo.cs
+/Users/Beibei/Workspace/OOB/OOB/obj/Debug/netcoreapp2.2/OOB.dll
+/Users/Beibei/Workspace/OOB/OOB/obj/Debug/netcoreapp2.2/OOB.pdb

@@ -1,0 +1,17 @@
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOBTest.deps.json
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOBTest.runtimeconfig.json
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOBTest.runtimeconfig.dev.json
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOBTest.dll
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOBTest.pdb
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOB.dll
+/Users/Beibei/Workspace/OOB/OOBTest/bin/Debug/netcoreapp2.2/OOB.pdb
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.csprojAssemblyReference.cache
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.csproj.CoreCompileInputs.cache
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.AssemblyInfoInputs.cache
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.AssemblyInfo.cs
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.csproj.CopyComplete
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.dll
+/Users/Beibei/Workspace/OOB/OOBTest/obj/Debug/netcoreapp2.2/OOBTest.pdb
