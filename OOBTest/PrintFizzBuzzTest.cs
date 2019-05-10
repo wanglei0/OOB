@@ -1,11 +1,9 @@
-using System;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
 using OOB;
 using Xunit;
 
 namespace OOBTest
 {
-    public class UnitTest1
+    public class PrintFizzBuzzTest
     {
         [Fact]
         public void Should_return_number_when_could_not_division_by_3_or_5()
@@ -28,7 +26,7 @@ namespace OOBTest
         [Fact]
         public void Should_return_number_when_could_division_by_3_and_5()
         {
-            Assert.Equal(Helper.FizzBuzz(15),"FizzBuzz"); 
+            Assert.Equal(Helper.FizzBuzz(15 ),"FizzBuzz"); 
         }
         
         [Fact]
