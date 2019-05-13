@@ -5,16 +5,19 @@ namespace OOB
 {
     public class ParkingLot
     {
-        public bool IsFull { get; set; }
+        public bool IsFull
+        {
+            get => (capacity - cars.Count) <= 0;
+        }
 
-        private int parkingSpaceNumber; 
+        private int capacity; 
 
         private Dictionary<Ticket, Car> cars;
 
-        public ParkingLot()
+        public ParkingLot(int capacity)
         {
-            parkingSpaceNumber = 10;
-            IsFull = false;
+            if(capacity < 0) return;
+            this.capacity = capacity;
             cars = new Dictionary<Ticket, Car>();
         }
         
